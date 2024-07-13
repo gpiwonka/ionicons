@@ -5,7 +5,7 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ionicons", "ionicons.csproj", "{630910D9-8739-44C3-8198-DCBC7531A7C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestIonicFont", "..\TestIonicFont\TestIonicFont.csproj", "{9F557550-AC37-4128-A014-AF769EA4F15D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestIonicFont", "TestIonicFont\TestIonicFont.csproj", "{92EEA621-06AF-4869-929D-74E798C61757}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +17,12 @@ Global
 		{630910D9-8739-44C3-8198-DCBC7531A7C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{630910D9-8739-44C3-8198-DCBC7531A7C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{630910D9-8739-44C3-8198-DCBC7531A7C0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9F557550-AC37-4128-A014-AF769EA4F15D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9F557550-AC37-4128-A014-AF769EA4F15D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9F557550-AC37-4128-A014-AF769EA4F15D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{9F557550-AC37-4128-A014-AF769EA4F15D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9F557550-AC37-4128-A014-AF769EA4F15D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9F557550-AC37-4128-A014-AF769EA4F15D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{92EEA621-06AF-4869-929D-74E798C61757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92EEA621-06AF-4869-929D-74E798C61757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92EEA621-06AF-4869-929D-74E798C61757}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{92EEA621-06AF-4869-929D-74E798C61757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92EEA621-06AF-4869-929D-74E798C61757}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92EEA621-06AF-4869-929D-74E798C61757}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
